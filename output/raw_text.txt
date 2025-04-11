@@ -1,0 +1,2216 @@
+SEM-I 
+Course Code 
+Course 
+Vertical 
+Sub-
+Vertical 
+Course Name 
+Contact Hours 
+Examination Marks  
+(1 Credit=50 Marks) 
+Credits 
+Total 
+Points 
+Total 
+BSC11CE01 
+BSESC 
+BSC 
+Matrices and Differential Calculus 
+BSC11CE04 
+BSESC 
+BSC 
+Engineering Chemistry 
+ESC11CE03 
+BSESC 
+ESC 
+ESC11CE02 
+BSESC 
+ESC 
+Basic Electrical and Electronics Engineering 
+PCC11CE01 
+PCPEC 
+PCC 
+PCC11CE04 
+PCPEC 
+PCC 
+Essential Psychomotor Skills for Engineers 
+VSE11CE02 
+SC 
+VSEC 
+IKS11CE01 
+HSSM 
+IKS 
+Indian Knowledge System 
+LLCXX 
+LLC 
+CC 
+One Course from CC 
+Total 
+SEM-II 
+Course Code 
+Course 
+Vertical 
+Sub-
+Vertical 
+Course Name 
+Contact Hours 
+Examination Marks  
+(1 Credit=50 Marks) 
+Credits 
+Total 
+Points 
+Total 
+BSC11CE03 
+BSESC 
+BSC 
+BSC11CE02 
+BSESC 
+BSC 
+Engineering Physics 
+ESC11CE02 
+BSESC 
+ESC 
+Engineering Graphics 
+ESC11CE04 
+BSESC 
+ESC 
+PCC11CE03 
+PCPEC 
+PCC 
+Digital Electronics 
+PCC11CE02 
+PCPEC 
+PCC 
+Essential Computing Skills for Engineers 
+VSE11CE01 
+SC 
+VSEC 
+Measuring Instruments and Testing Tools 
+AEC11CE01 
+HSSM 
+AEC 
+Art of Communication 
+LLCXX 
+LLC 
+CC 
+One Course from CC 
+HMM11CE01 
+HMM/DM/ 
+RMM 
+HMM/DM/ 
+RMM 
+Introduction to Emerging Technologies 
+Total 
+* Introduced as first course for HMM/DM/RMM 
+SEM-III 
+Course Code 
+Course 
+Vertical 
+Sub-
+Vertical 
+Course Name 
+Contact 
+Hours 
+Examination Marks  
+(1 Credit=50 Marks) 
+Credits 
+Total 
+Points 
+Total 
+BSC12CE05 
+BSESC 
+BSC 
+PCC12CE05 
+PCPEC 
+PCC 
+Computer Organization and 
+PCC12CE06 
+PCPEC 
+PCC 
+PCC12CE07 
+PCPEC 
+PCC 
+MDM01 
+MDC 
+MDM 
+Law for Engineers 
+OECE1X 
+MDC 
+OE 
+Open Elective-1  
+OECE1X 
+MDC 
+OE 
+Open Elective-2 
+EEM12CE01 
+HSSM 
+EEMC 
+Financial Planning, Taxation and 
+Investment 
+VEC12CE01 
+HSSM 
+VEC 
+CEP12CE01 
+EL 
+CEFP 
+LLCXX 
+LLC 
+CC 
+One Course from CC 
+HMM12CE02/ 
+DMC12XX02 
+HMM/ 
+DM 
+HMM/ 
+DM 
+Honors/Double Minor Course 
+Total 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+SEM-IV 
+Course Code 
+Course 
+Vertical 
+Sub-
+Vertical 
+Course Name 
+Contact Hours 
+Examination Marks  
+(1 Credit=50 Marks) 
+Credits 
+Total 
+Points 
+Total 
+BSC12EC06  
+BSESC 
+BSC 
+Linear Algebra and business statistics  
+PCC12CE08 
+PCPEC 
+PCC 
+Database Management Systems 
+PCC12CE09 
+PCPEC 
+PCC 
+PCC12CE010 
+PCPEC 
+PCC 
+MDM02 
+MDC 
+MDM 
+Emerging Technology and Law 
+OECE2X 
+MDC 
+OE 
+Open Elective-3 
+VSE12CE03 
+SC 
+VSEC 
+Full Stack Development  
+AEC12CE02X 
+HSSM 
+AEC 
+Modern Indian Language 
+EEM12CE02 
+HSSM 
+EEMC 
+VEC12CE02 
+HSSM 
+VEC 
+Technology Innovation for 
+Sustainable Development 
+LLCXX 
+LLC 
+CC 
+One Course from CC 
+HMM12CE03/ 
+DMC12XX03 
+HMM/DM 
+HMM/DM 
+Honors/Double Minor Course 
+RMM12CE01 
+RMM 
+RMM 
+Total 
+SEM-V 
+Course Code 
+Course 
+Vertical 
+Sub-
+Vertical 
+Course Name 
+Contact Hours 
+Examination Marks  
+(1 Credit=50 Marks) 
+Credits 
+Total 
+Points 
+Total 
+PCC13CE11 
+PCPEC 
+PCC 
+Cryptography and System Security  
+PCC13CE12 
+PCPEC 
+PCC 
+Computer Network 
+PCC13CE13 
+PCPEC 
+PCC 
+PCC13CE14 
+PCPEC 
+PCC 
+Data Warehousing and Mining Lab 
+PEC13CEXX 
+PCPEC 
+PEC 
+PEC13CEXX 
+PCPEC 
+PEC 
+MDM03 
+MDC 
+MDM 
+MDM04 
+MDC 
+MDM 
+Public Relations and Corporate 
+Communication  
+OECE3X 
+MDC 
+OE 
+Open Elective-4 
+HMM13CE04/ 
+DMC12XX04 
+HMM/DM 
+HMM/DM 
+Honors/Double Minor Course 
+Total 
+SEM-VI 
+Course Code 
+Course 
+Vertical 
+Sub-
+Vertical 
+Course Name 
+Contact Hours 
+Examination Marks  
+(1 Credit=50 Marks) 
+Credits 
+Total 
+Points 
+Total 
+PCC13CE15 
+PCPEC 
+PCC 
+Compiler Construction 
+PCC13CE16 
+PCPEC 
+PCC 
+Software Engineering 
+PCC13CE17 
+PCPEC 
+PCC 
+Artificial Intelligence Lab 
+PCC13CE18 
+PCPEC 
+PCC 
+Software Testing and Quality 
+Assurance Lab 
+PEC13CEXX 
+PCPEC 
+PEC 
+PEC13CEXX 
+PCPEC 
+PEC 
+PEC13CEXX 
+PCPEC 
+PEC 
+PEC13CEXX 
+PCPEC 
+PEC 
+MDM05 
+MDC 
+MDM 
+VSE13CE04 
+SC 
+VSEC 
+Cloud Computing Lab 
+HMM13CE05/ 
+DMC12XX05 
+HMM/DM 
+HMM/DM 
+Honors/Double Minor Course 
+RMM13CE02 
+RMM 
+RMM 
+Total 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+SEM-VII 
+Course Code 
+Course Vertical 
+Sub-Vertical 
+Course Name 
+Contact Hours 
+Examination Marks  
+(1 Credit=50 Marks) 
+Credits 
+Total 
+Points 
+Total 
+PCC14CE19 
+PCPEC 
+PCC 
+Distributed Computing 
+PCC14CE20 
+PCPEC 
+PCC 
+DevOps Lab 
+PEC14CEXX 
+PCPEC 
+PEC 
+PEC14CEXX 
+PCPEC 
+PEC 
+MDM06 
+MDC 
+MDM 
+RMC14CE01 
+EL 
+RM 
+RMC14CE02 
+EL 
+RM 
+EL 
+HMM14CE06/ 
+DMC12XX06 
+HMM/DM 
+HMM/DM 
+Honors/Double Minor Course 
+Total 
+SEM-VIII 
+Course Code 
+Course 
+Vertical 
+Sub-
+Vertical 
+Course Name 
+Contact 
+Hours 
+Examination Marks  
+Credits 
+Total 
+Points 
+Total 
+PCC14CE21 
+PCPEC 
+PCC 
+SWAYAM 
+As Per SWAYAM 
+PCC14CE22 
+PCPEC 
+PCC 
+SWAYAM 
+As Per SWAYAM 
+PCC14CEXX 
+PCPEC 
+PEC 
+SWAYAM 
+As Per SWAYAM 
+MDM07 
+MDC 
+MDM 
+One MDM Course 
+SWAYAM 
+As Per SWAYAM 
+INT14CE01 
+EL 
+INT 
+Semester long Internship 
+36-40 hrs 
+As Per Internship Manual 
+HMM14CE07/ 
+DMC12XX07 
+HMM/DM 
+HMM/DM 
+One SWAYAM Course 
+SWAYAM 
+As Per SWAYAM 
+RMM14CE03 
+RMM 
+RMM 
+SWAYAM 
+As Per SWAYAM 
+Total 
+# Online course 1 Credit=4 Week course from SWAYAM can be taken in SEM 7 or SEM VIII 
+# Online min 8 week course from SWAYAM can be taken in SEM 7 or SEM VIII to complete 2 credit course 
+* Online min 12 week course from SWAYAM can be taken in SEM 7 or SEM VIII to complete 3 credit course 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Elective 1: 
+Track A 
+V 
+Blockchain Basics (PEC) 
+Blockchain Lab (PECL) 
+VI 
+Decentralized Finance (PEC) 
+Decentralized App Development Lab  
+Track B 
+V 
+AI and Machine Learning (PEC) 
+Machine Learning Lab (PECL)  
+VI 
+Deep Learning & Reinforcement Learning(PEC) 
+Deep Learning Lab (PECL) 
+Track C 
+V 
+Computer Graphics (PE)  
+Computer Graphics Lab (PECL) 
+VI 
+Computer Vision (PEC) 
+Track D 
+V 
+Penetration Testing (PECL) 
+VI 
+Digital Forensics (PEC) 
+Digital Forensics Lab (PECL) 
+Elective 2: (Sem VI) Any one course and corresponding lab from below- 
+Cyber Security  
+System administration 
+Block chain Technology 
+Machine Learning and Deep Learning 
+UI/UX Design  
+Block chain Lab 
+Machine Learning and Deep Learning Lab 
+UI/UX Design lab 
+Group 1 
+Group2 
+Digital Business management 
+Mobile and wireless Computing 
+Generative AI 
+Computer Vision 
+Social Media Analytics 
+Information Retrieval 
+Geographical Information Systems 
+Explainable AI 
+GPU Computing 
+Optimization Techniques  
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+List of Multi-Disciplinary Minor Courses (MDM):  
+1. SEM-III: Law for Engineers 
+2. SEM-IV: Emerging Technology and Law 
+3. SEM-V: Public Relations and Corporate Communication 
+List of Modern Indian Language (2 credit) (AEC): 
+AEC12CE021 Sanskrit for Beginners 
+AEC12CE022 Telugu for Beginners  
+AEC12CE023 Kannada for Beginners 
+AEC12CE024  Tamil for Beginners 
+LLC01. Culinary Arts: Foundations of Cooking 
+LLC03. Sketching 
+LLC04. Personality Development and People Management 
+LLC05. Work Life Balance 
+LLC06. Art of Living 
+LLC07. Yoga Vidya 
+LLC08. First Aid and Self Defence 
+LLC09. Fire Safety and Electronic Security 
+LLC010. Sports Technology 
+LLC012. Aerobics and Fitness 
+LLC015. Fundamentals of Photography 
+LLC016. Cinematography 
+LLC018. Script writing 
+LLC019. Vehicle maintenance and traffic rules 
+LLC020. Garden Design and Maintenance 
+LLC021. Managing Social Media 
+LLC022. Server and Network Maintenance 
+LLC023. Electrical Safety 
+LLC024. Mentoring of School Children 
+LLC025. Social Club Activities 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Dean Academics. 
+Semester 
+Subject 
+III 
+IV 
+V  
+Advanced Database Management Systems 
+VI 
+High Performance Computing  
+VII 
+Soft Computing 
+VIII 
+Swayam Course 
+A. Name: VLSI Design and Verification 
+1. Computer Aided Design for VLSI 
+3. Verification using System Verilog 
+4. VLSI Testing 
+5. AI and ML for VLSI 
+6. Swayam course 
+3. Embedded System and RTOS 
+4. Fundamentals of IoT 
+5. IoT System Design 
+6. Swayam course 
+C. Name: Automation and Robotics 
+1. Introduction to CAD/CAM 
+3. Mechatronics  
+4. Industrial Robotics 
+5. Automation and Control 
+6. Swayam Course 
+D. Name: Sustainable Development Engineering  
+2. Green Computing and Renewable Energy Systems 
+3. Social and Environmental Sustainability 
+4. Smart and Sustainable cities 
+5. Sustainability Frameworks 
+6.  Sustainability Policies 
+7. From SWAYAM 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Verticals 
+Total 
+Credits 
+BSESC 
+PCPEC 
+MDC 
+SC 
+HSSM 
+EL 
+LLC 
+SEM 
+BSC 
+ESC 
+PCC 
+PEC 
+MDM 
+OE 
+VSEC 
+AEC 
+EEMC 
+IKS 
+VEC 
+RM 
+CEFP 
+INT 
+CC 
+I 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+VIII 
+Total Credits as 
+per Fr CRCE 
+Total Credits as 
+per GR 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+BSC11CE01 
+Matrices and 
+Differential Calculus 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Course 
+Outcomes 
+CO1 
+Implement diagonalization of a given matrix using eigen values and eigen 
+vectors. 
+CO2 
+Execute Higher order derivatives of a given functions  
+CO3 
+given function. 
+CO4 
+Demonstrate basic knowledge of analytic functions in solving engineering 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. 
+Hrs. 
+Title Matrices 
+Introduction: Types of Matrices (symmetric, skew‐ 
+symmetric, Hermitian, Skew Hermitian, Unitary, 
+Rank of a Matrix using Echelon forms, reduction to 
+normal form. 
+solutions. 
+and reduction of higher degree polynomials 
+Similarity of matrices, diagonalizable and non-
+diagonalizable matrices 
+Title Successive Differentiation 
+functions.  
+Title Partial Differentiation 
+Partial Differentiation: Function of several variables, Partial  
+derivatives of first and higher order. Differentiation of  
+composite function. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Maxima and Minima of a function of two independent 
+variables,  
+Title Analytic Functions 
+Function f(z)of complex variable, Limit, Continuity and 
+Differentiability off(z), Analytic function: Necessary and 
+Cauchy-Riemann equations in Cartesian coordinates 
+f(z)when real part 
+(u), imaginary part (v) or its combination au+bv is given. 
+trajectories. 
+Total 26 
+Exp. No. 
+Marks 
+Matrices: Rank of Matrix, system of Linear Equations 
+Matrices: Eigen values ,Eigen Vectors, Diagonalization of matrix 
+Successive Differentiation 
+Partial derivatives: chain rule and composite functions 
+Partial derivatives:((Applications)Maxima-Minima of functions  
+Analytic functions: Cauchy-Riemann equations 
+Total Marks 
+Course Assessment: 
+syllabus 
+evaluation for 20 marks. 
+evaluation for 30 marks. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Recommended Books: 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+BSC11CE02 
+Engineering Physics 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+Derive Schrodinger equation in time dependent and independent form and 
+CO3 
+CO4 
+for Hall Effect. 
+CO5 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Wave Optics – Interference & Diffraction 
+Newton’s rings, Anti reflection coating. 
+Fraunhofer diffraction at single slit – diffraction due to ‘n’ slits- plane 
+transmission grating. Applications of grating. 
+Wave – particle duality-de Broglie matter waves – Concept of wave 
+dependent equations – Particle in a one-dimensional rigid box. 
+Laser &Fiber optics 
+amplification of light by population inversion, different types of 
+lasers: solid-state lasers (Nd-YAG), gas lasers (He-Ne, CO2), 
+applications. 
+Communication. 
+Semiconductor Devices & Applications 
+Fermi -Dirac Distribution Law, Fermi Level in intrinsic & Extrinsic 
+unbiased conditions. Hall Effect and its applications. 
+Physics of Sensors 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Resistive sensors: 
+c) Humidity measurement using resistive sensors 
+calibration and applications. 
+Piezoelectric transducers: Concept of piezoelectricity, use of 
+piezoelectric transducer as ultrasonic generator and application of 
+ultrasonic transducer for distance measurement, liquid and air velocity 
+measurement.  
+Optical sensor: Photodiode, construction and use of photodiode as 
+ambient light measurement and flux measurement. 
+of pyroelectric sensor as bolometer. 
+Total 26 
+Course Assessment: 
+Activity: Quiz and assignments 20 Marks 
+Activity: Article Discussion, Quiz and Assignments 
+Outcome: Reflective Journal 
+syllabus  
+Lab: 
+evaluation for 20 marks. 
+Exp. No. 
+Experiment Details 
+P-N Junction: Forward & Reverse bias characteristics 
+Determination of grating constant 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Recommended Books: 
+TEXT BOOKS 
+1. Optics by Subramaniam N & BrijLal, S Chand & Co. Pvt. Ltd., New Delhi,  
+4. Applied Engineering Physics – Rajendran & Marikani (Tata McGraw Hill)  
+5. Engineering Physics – Bhattacharya, Bhaskaran – Oxford Publications 
+AIP 
+REFERENCE BOOKS 
+1. Fundamentals of Optics by Jenkins A Francis and White E Harvey, McGRaw Hill Inc., 
+New Delhi, 
+3. Engineering Physics by M.N.Avadhanulu, S.Chand& Company Ltd. 
+5. Optics by R.  Agarwal, S.Chand publishers. 
+Wiley and Sons, New York. 
+8. Electronic Instrumentation –H.S. Kalsi, Tata Mc Graw-Hill Education 
+9. Instrumentation & Measurement Techniques by Albert D. Helfrick & William D. Cooper 
+(PHI) Edition 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+ESC11CE02 
+Engineering Graphics 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+CO3 
+CO4 
+drawing. 
+CO5 
+CO6 
+To use Computer Aided Drafting tools for drawing various views including 
+Isometric Views 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. 
+Hrs. 
+Introduction to Engineering Graphics 
+of Drawing instruments, Types of Lines, Dimensioning Systems 
+as per IS conventions. Introduction to plain and diagonal scales. 
+Engineering Curves 
+Basic construction of Cycloid, Involutes and Helix (of cylinder) 
+only. 
+lines. 
+Triangular, Square, Rectangular, Pentagonal, Hexagonal and 
+composite planes). 
+axis inclined to HP and VP. (Exclude Spheres, Composite, Hollow 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Section of Solids 
+perpendicular to at least one reference plane (Exclude Curved 
+Section Plane). Use change of position or Auxiliary plane 
+Isometric Views(Excluding Sphere ). 
+Development of Lateral Surfaces 
+Development) 
+Total 28 
+Course Assessment: 
+Team Activity: Two Hours Duration: 20 Marks  
+will be part of activity. Here Cut sections will also be developed using development 
+activity 
+graphics 
+Team Activity 
+syllabus 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Lab: 
+rubrics-based evaluation for 20 marks. 
+rubrics-based evaluation for 30 marks. 
+To be Taught in laboratory 
+Topics 
+Ref. Hrs. 
+Overview of Computer Graphics Covering: 
+Listing 
+computer 
+technologies 
+impact 
+on 
+graphical 
+Modify and Dimension), Drawing Area (Background, Crosshairs, 
+Coordinate System), Dialog boxes and 
+Select and erase objects. 
+Customization & CAD Drawing: 
+settings, Setting up of units and drawing limits, ISO and ANSI standards for 
+coordinate dimensioning. 
+Applying dimensions to objects, applying annotations to drawings, Setting 
+up and use of layers, layers to create drawings, Create, edit and use 
+(simple machine parts). 
+Activities to be Completed in CAD Lab 
+A1 
+A2 
+A3 
+A4 
+Activities to be completed on A3 Size Sketchbook using Conventional Tools 
+A6 
+A7 
+A8 
+Total 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Recommended Books: 
+[1] N.D. Bhatt, "Engineering Drawing (Plane and solid geometry)", Charotar Publishing House 
+Pvt. Ltd 
+[2] N.D. Bhatt & V.M. Panchal, "Machine Drawing", Charotar Publishing House Pvt. Ltd. 
+[4]  Dhananjay A Jolhe, Engineering Drawing, Tata McGraw Hill. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+ESC11CE02 
+Basic Electrical and 
+Electronics 
+Engineering 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Lab 
+Course 
+Outcomes 
+CO1 
+Distinguish between various types of electrical sources 
+CO2 
+CO3 
+Discuss operation & applications of transformer & electrical machines 
+CO4 
+diodes and BJT. 
+CO5 
+CO6 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. 
+Hrs 
+Introduction to DC Circuits 
+Basic electrical quantities -Electrical energy and power-Introduction 
+to Resistance, Inductance and capacitance, Types of sources . 
+Ohm’s Law-Fundamental circuit laws: KCL and KVL-D.C. circuits and 
+network simplification (series, parallel, star/delta) Mesh and Nodal 
+Analysis.  
+Fundamentals of AC 
+Generation of alternating voltage & current (AC), fundamentals of 
+phase shift, RMS value & average value  
+R, L, C in AC circuits, Series RL, RC and RLC circuits-application of 
+complex notation- phase difference and power factor, phasor 
+diagram, series-parallel circuits, active, reactive, apparent power, 
+series resonance. 
+currents and power in Star connected and delta connected balanced 
+circuits 
+Transformers 
+emf equation and transformation ratio 
+Transformer at No load and On load condition, Losses in 
+transformer, Regulation and efficiency 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Auto transformer working and applications 
+Electrical Machines 
+generator, DC motor, equation of generated emf/back emf    
+Induction motor.  
+Semiconductor Diodes 
+Working of P-N junction Diode, I-V characteristic, application as a 
+rectifier, introduction to filters (C, L, L-C & C-L-C) 
+Types of Diodes such as LED, photo diode, zener diode characteristic 
+and applications  
+Bipolar Junction Transistor 
+Construction, types - NPN & PNP, characteristic, modes of 
+operation, applications (switch & amplifier) 
+Total 26 
+Course Assessment: 
+(b) Circuit simulation for 10 marks  
+(ii) Lab: 40 Marks (08 experiments of 05 marks each) + 10 Marks (activity based) = 50 Marks 
+evaluation for 20 marks. 
+b. Activity: Oral examination / viva-voce (10 marks)   
+1. Verification of Mesh and Nodal analysis. 
+4. Measurement of electrical parameters for alternating sinusoidal voltage (AC) 
+5. To find resonance conditions in a R-L-C series resonance circuit 
+system 
+7. Forward & reverse bias characteristics of PN junction diode 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+8. Application of PN junction diode – rectifiers (full-wave) 
+Recommended Books: 
+1. V. N. Mittal and Arvind Mittal – Basic Electrical Engineering, Tata McGraw Hill 
+edition) 
+4. B.R Patil – Basic Electrical Engineering, Oxford Higher Education 
+6. R. S. Sedha – A Textbook of Applied Electronics, S. Chand Publishing, New Delhi 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+PCC11CE01 
+Innovation and 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+CO6 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Innovation and Creativity: 
+(Takeaway) 
+Innovation, Invention and Creativity. Mindset. Convergent and 
+Innovations. Market Impact. Linear and Non-Linear Innovations. 
+Inspiration 
+3. Digital Market Survey Report and Customer Demand 
+desired level of innovation & domain definition.  
+(Takeaway) 
+1. Live examples and videos 
+(Takeaway) 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+1. Immersion Activity-Body Storming.  
+Physical, Identity, Communication, Emotional (SPICE) 
+Framework 
+Journey Map 
+Definition and Ideation: 
+(Takeaway) 
+and Tools for Innovation 
+1. Brainstorming, Sketch 
+Scope (SCOPES) tool 
+3. Social. Technology, Economy, Environment and Political 
+steep matrix template. 
+and stakeholder mapping 
+(SCAMPER) tool. 
+(Takeaway) 
+2. Business Model canvas 
+(Takeaway) 
+1. Demo day 
+Total 26 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Assessment: 
+Lab: 
+b. Business Model Canvas for identified Idea for 10 marks 
+Recommended Books: 
+Business or Design School”, 2013, Wiley Publications. 
+Referenced Books: 
+Inspires Innovation”, 2009 HarperBusiness. 
+Create Radically Successful Businesses” 2011 Penguin 
+Stories of What Works”, Columbia Business School Publishing, 2013. 
+[6] Maurício Vianna, Ysmar Vianna, Isabel K. Adler, Brenda Lucena, Beatriz Russo, “Design 
+[7] Robert A. Burgelman, Clayton M. Christensen, Steven C Wheelwright, “Strategic 
+Online Courses: 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+PCC11CE02 
+Essential Computing 
+skills for engineers 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+Course 
+Outcomes 
+CO1 
+use Linux commands to perform file operations. 
+CO2 
+use Matlab/ Scilab for scientific computing. 
+CO3 
+use web technology to design web pages. 
+CO4 
+perform CRUD operations using relational databases. 
+CO5 
+create scientific document using LaTeX. 
+CO6 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Introduction to Linux Operating System 
+Demonstration of installation of Linux Operating System 
+directory, creating files and directories using Linux commands 
+in Linux, Introduction to piping, use of nano and/or vi editor  
+Use of locate and find commands, Use of Grep in Linux, use of 
+chmod and chown for giving permissions in Linux  
+Introduction to Scientific Computing using Matlab/ Scilab 
+Introduction to Matlab/Scilab, getting data into Matlab/Scilab, 
+creating, concatenating and reshaping arrays, Accessing data in 
+Visualizing data using 2D and 3D plots, introduction to toolboxes 
+for different scientific computing tasks, creating and calling 
+functions  
+Introduction to tables of data, storing and sorting table data, 
+extracting data from table, exporting tables, combining tables, 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Foundations of web technology 
+HTML Basics- HTML tags and attributes, Headings in HTML, 
+creating paragraphs in HTML, Basic formatting tags of HTML, 
+giving background and font colors using HTML, creating links 
+using HTML, Adding images in HTML  
+Creating tables and lists using HTML, creating forms in HTML, 
+Embedding videos on web page 
+CSS syntax, CSS selectors, background formatting using CSS, CSS 
+box model, adding borders, margins and padding using CSS, 
+adding styles to fonts using CSS, Positioning using CSS, Pseudo-
+classes in CSS, CSS navigation bar, creating image gallery using 
+CSS, use of external CSS for creating website layout 
+Introduction to Javascript, basic Javascript syntax, Variables in 
+functions in Javascript, arrays and number handling in Javascript,  
+DOM manipulation in Javascript, Form validation using 
+Javascript 
+Introduction to Database Technology 
+Installation of MySQL/Postgresql, creating database schema and 
+tables, DML operations, conditional selection of records from 
+database connectivity 
+Introduction to LaTeX 
+Demonstration of installation and usage of Texlive/MikeTex, 
+formatting words, lines and paragraphs, font formatting, 
+creating section and subsections, use of geometry package 
+Insertion of graphics and tables in document, creation of lists, 
+contents, creating hyperlinks 
+Bibliography management, citations, creating chapters using 
+Usage of style files in a document 
+Introduction to Microsoft Excel/Open office Calc/Google Sheets, 
+functionality using ranges, use of formulae for basic data analysis 
+autosum), sorting, filter, text to column, data validation  
+Use of advance formulae for data analysis (concatenate, 
+vlookup, hlookup, match, countif, text, trim) 
+Creating pivot tables, manipulating pivot table, usage of pivot 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+chart, setting pivot table options, adding subtotals to pivot 
+tables 
+Data visualization- creating 2D and 3D plots 
+Data visualization using conditional formatting- creating 
+formula-based rules 
+Total 52 
+Course Assessment: 
+a. Quiz based on module 1 for 10 marks. 
+b. Completion of any 4 courses from suggested list on module 2 for 20 marks. 
+Suggested URL and course list: 
+1. MATLAB Onramp 
+2. Simulink Onramp 
+3. App Building Onramp 
+5. Simscape Onramp 
+6. Circuit Simulation Onramp 
+c. Quiz based on module 2 for 10 marks. 
+d. Assignment (web page designing) based on module 3 for 10 marks. 
+a. Quiz based on module 4 for 10 marks. 
+for 20 marks. 
+Recommended References: 
+3. https://www.w3schools.com/  
+4. https://www.mysql.com/  
+5. https://en.wikibooks.org/wiki/LaTeX  
+6. https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-
+a5b3-d7c22f6990bb  
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+VSE11CE01 
+Measuring Instruments 
+and Testing Tools 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+able to 
+Course 
+Outcomes 
+CO1 
+measurements, static and dynamic characteristics of instrument. 
+CO2 
+CO3 
+CO4 
+Select a suitable test & measuring instrument for any given system, 
+CO5 
+instrument 
+CO6 
+a. Instructor 
+Responsibilities : To demonstrate capabilities of various instruments and convince 
+instrument 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. 
+Hrs. 
+Introduction to Basic Concepts of Measurements 
+of an instrumentation system, Need of Inspection, Go-NoGo Gauges. 
+Difference between measuring instrument and Comparator.   
+Introduction to Standards such as IS/ BIS, NABL standards.  Errors in 
+measurement, types, classification, Calibration & its importance, 
+Difference between sensor and transducer, classification of Types of 
+electrical, electronic and mechanical sensors 
+Units, Standards & Characteristics  
+Unit systems – MKS, CGS & SI for  electrical & mechanical quantities 
+Performance characteristics of instruments – static characteristics & 
+sale, service and repair of measuring and test instruments.  
+Mechanical Test & Measuring Instruments 
+Measurement of linear dimensions using Vernier caliper. 
+Measurement & Marking dimensions using Vernier height gauge  
+interferometry by optical flats and monochromatic light. 
+Measurement of components deviations w.r.t. standard using 
+mechanical comparator 
+Spirit Level for Alignment test 
+Feeler Gauges for Gap measurement 
+Electronic Test & Measuring Instruments 
+Digital Multimeter  
+DC Power Supply  
+Function Generator 
+Digital Storage Oscilloscope (DSO) 
+Sensors & Transducers 
+Mechanical Limit Switch. 
+Strain Gauge Load cell  
+Linear Variable Differential Transducer (LVDT)  
+Total 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Assessment: 
+Total Marks  : 50 
+A) After completion of Module 1 and Module 2, Online Quiz / Q/A Assignment of 30 marks 
+tools. 
+Total Marks  : 50 
+marks) 
+Recommended Books: 
+[1] Engineering. Metrology, I.C. GUPTA, Dhanpat Rai Publications.  
+[2] Engineering. Metrology, R. K. Jain, Khanna Publisher.  
+[4] Fundamentals of Micro-electronics, Behzad Razavi, Wiley Publications, 2008  
+[5] Sensors and Transducers, Second Edition, D.Patranabis, PHI publications, 2003  
+ [6] J. Millman and A. Grabel, “Microelectronics”, Tata McGraw Hill, 2nd Edition.  
+Design Perspective”, Pearson Education, 2nd Edition.  
+[8] Engineering Metrology, K. J. Hume, Kalyani publication  
+[9] Engineering. Metrology, Hume K.G., M C Donald, Technical &Scientific, London. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+AEC11CE01 
+Art of 
+Communication 
+(AoC) 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+Basic Language Skills 
+Course 
+Outcomes 
+CO1 
+CO2 
+Apply Strategies to develop vocabulary and grammar skills for competitive 
+exams 
+CO3 
+Develop Listening, Reading, Speaking and Writing skills 
+CO4 
+Acquire effective correspondence skills 
+CO5 
+corporate sector 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Introduction to Communication  
+Ancient India and Communication: Roots of Communication skills 
+in Indian Tradition, Importance of Communication, Cycle. 
+Communication 
+Paralanguage) 
+Steps to Public Speaking: Planning your speech, Delivery of 
+Barriers and Gateways in Communication: 
+Types of barriers: Physical, Mechanical, Psychological, Semantic 
+Verbal Ability in Competitive exams:  
+English grammar and Strategies for 
+UPSC/GATE/GRE/IELTS/TOEFL/CAT 
+Communicative Competence 
+selected  subject               
+      listening and reading passages- open ended questions  
+Reading  :Two subject-based reading texts followed by 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+selected  subject               
+      listening and reading passages- open ended questions  
+Reading  :Two subject-based reading texts followed by 
+Listening:  Motivational Talks or TED TALKS 
+paper (Environment, Sustainability and Social aspects) 
+Writing: Review writing or writeup for public speaking 
+Effective Correspondence 
+Introduction, Do’s and Don’ts, Format and Types 
+• Application for internship 
+• Request/Permission 
+• Management Information System 
+Limitation  
+Total 13 
+Sr. No. 
+Marks 
+Vedas/Upanishads/ Bhagvad gita/ Mahabharata 
+Listening skills: Quiz/ Subjective type questions 
+Speaking skills: Panel Discussion 
+Correspondence  
+Management Information system assignment 
+Communication module assignment 
+Total
+Marks: 40  
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+ability 
+PO10: Communication, PO9: Individual and Team Work, P12: Long Life Learning 
+Marks: 60 Marks 
+Learning outcome: Efficiently developing listening, reading and writing skills 
+      Reference Books: 
+Sr. 
+No. 
+Title 
+Edition 
+Publisher 
+Year 
+Communication 
+Skills 
+Technical Publication, Pune 
+English Vocabulary in 
+Use 
+Felicity O’Dell 
+India 
+Grammar 
+John Eastwood 
+Oxford, India 
+Communication 
+Skills 
+Meenakshi Raman, 
+Sangeeta Sharma 
+Oxford, India 
+English Grammar for 
+Today 
+Geoffrey Leech 
+Palgrave, UK 
+Word Power Made 
+Easy 
+Norman Lewis 
+Anchor Books, New York 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+BSC11CE03 
+Integral Calculus 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Course 
+Outcomes 
+CO1 
+Execute first order linear differential equation. 
+CO2 
+Execute higher order linear differential equation. 
+CO3 
+CO4 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Title 
+Linear Differential Equations of first order 
+Exact Differential Equations, Integrating Factors, equations 
+reducible to exact form. 
+Linear differential equations (Definition), equations reducible 
+to linear form, Bernoulli’s equation 
+Title 
+Linear Differential Equations of higher order 
+complementary function, particular integrals of differential 
+cos(ax+b), 𝑥𝑚, 𝑒𝑎𝑥V, xV, where V is a function of x. 
+Cauchy’s homogeneous linear differential equation and 
+Title 
+Integral Calculus 
+integrals 
+reducible to gamma functions. 
+functions, integrals reducible to Beta functions, Duplication 
+formula. 
+Tracing of curves (Standard curves, Cardioide, Lemniscate, 
+Spheres, Ellipsoids, Cylinders, Cones, Tetrahedrons, planes) 
+Double Integration:  definition and evaluation.  Evaluate by 
+form. 
+Title 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Expectation, Variance, Moment generating function, Raw and 
+Total 26 
+Exp. No. 
+Ref. Marks 
+Linear differential equations: Exact and non-exact 
+Linear differential equations: Linear and reducible to linear 
+Linear differential equations: higher order 1 
+Linear differential equations: higher order 2 
+Beta and Gamma functions 
+Double integration 
+Random variables (discrete and continuous) 
+Expectation, variance, raw and central moments 
+Total Marks 
+Course Assessment: 
+syllabus 
+evaluation for 20 marks. 
+evaluation for 30 marks  
+Recommended Books: 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course 
+Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+BSC11CE04 
+Engineering 
+Chemistry 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+CO3 
+CO4 
+combustion of fuel. 
+CO5 
+various industrial fields 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. 
+Hrs. 
+Title 
+Catalysis 
+Basic concepts of catalysis (Homogeneous and Heterogeneous 
+catalysis), 
+Industrial 
+applications 
+of 
+Catalysis-Oxidation-
+Hydroformylation, 
+Reduction-Hardening 
+of 
+vegetable 
+oils, 
+Wilkinson`s 
+catalyst-Hydrogenation, 
+Vaska`s 
+complex 
+Carbonylation, Commercial catalytic reactors (fixed bed, fluidized 
+bed).  
+Title 
+power generation, block diagram, applications, advantages and 
+limitations. 
+Title 
+Corrosion 
+Definition, Mechanism of Corrosion – 
+(II) Wet or Electrochemical corrosion - Mechanism i) Evolution of 
+hydrogen type ii) Absorption of oxygen. 
+Types of Corrosion - Galvanic cell corrosion, Concentration cell
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+corrosion control – 
+i) 
+coatings (Galvanising) 
+Title 
+Fuels and combustion 
+Definition, classification, characteristics of a good fuel, units of heat 
+(no conversions). Calorific value - Definition, Gross or Higher calorific 
+value & Net or lower calorific value, Dulong’s formula & numerical for 
+calculations of Gross and Net calorific values. Solid fuels - Analysis of 
+significance. Combustion - Calculations for requirement of only 
+oxygen and air (by weight and by volume only) for given solid & 
+gaseous fuels. 
+Title 
+Polymers  
+Molecular weight (Number average and weight average), Numericals
+and 
+polymers,
+uses of PMMA, Butyl Rubber, PTFE and Kevlar 
+Exp. 
+No. 
+List of Experiments 
+Course Assessment: 
+Activity: Quiz and assignments 20 Marks 
+Activity: Article Discussion, Quiz and Assignments 
+Outcome: Reflective Journal 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+syllabus 
+Lab: 
+evaluation for 20 marks. 
+Recommended Books: 
+1. Engineering Chemistry - Jain & Jain, Dhanpat Rai  
+2. Engineering Chemistry – Dara & Dara, S Chand  
+3. Green Chemistry: A textbook – V.K.Ahluwalia, Alpha Science International  
+4. A Text Book of Engineering Chemistry – Shashi Chawla, DhanpatRai  
+5. Textbook of Qualitative Inorganic Analysis: A. I. Vogel 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme (Hrs/week) 
+Credits Assigned 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+ESC11CE03 
+Fundamentals 
+Examination Scheme 
+Total 
+100 (30% weightage) 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+constructs. 
+CO3 
+CO4 
+strings and functions. 
+CO5 
+Apply various C++ constructs such as classes, objects, static members, access 
+specifiers 
+CO6 
+functions for run time polymorphism 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Control.  
+decision, switch statement, continue statement, break statement 
+statements. 
+Arrays 
+Declaration, Definition, accessing array elements, one-dimensional 
+array, two-dimensional array, array of characters, standard String 
+handling functions. 
+Functions and Pointer 
+Passing Arguments to a Function, call by value, call by reference, 
+Recursion 
+Pointer and Arrays. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+and Destructors, static members. 
+default arguments 
+Access Specifiers, Friend Function and Friend Classes 
+Inheritance and Polymorphism 
+Types of Inheritance: Single Inheritance, Multiple Inheritance, Multi-
+level Inheritance, Hierarchical Inheritance, Inheritance and 
+Constructors 
+Function Overloading, Operator Overloading. 
+Classes. 
+Total 26 
+Indicative Experiments 
+Course Assessment: 
+Assignments: 10 marks 
+syllabus 
+Lab:   
+Recommended Books: 
+Economy Edition, Second Edition. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+[3] K.R. Venugopal, Rajkumar, T. Ravishankar, “Mastering C++” ,Tata McGraw Hill, Second 
+Edition. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+ESC11CE04 
+Systems 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+Basic Science 
+Course 
+Outcomes 
+CO1 
+engineering applications. 
+CO2 
+CO3 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Topic Significance of Biology in Engineering 
+1.1 Introduction, Aspects of Biology as an Independent scientific discipline 
+observations of Robert Brown and Julius Mayor 
+1.3 Fundamental importance of observation in any scientific inquiry 
+Topic Human Organ Systems and Bio Designs – 1 
+Neumann Computing System 
+2.2 Central Nervous System (CNS) and Peripheral Nervous System (PNS)-2 types: 
+Somatic and Autonomic, Signal Transmission 
+EEG (Electroencephalography- Applications, EEG Signals and Types of Brain 
+Activity) 
+Machine Interfaces 
+2.5 Artificial Brain 
+corrections, cataract, lens materials, bionic eye) 
+and heart-related issues, reasons for blockages of blood vessels, design of 
+stents, pacemakers, defibrillators) 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Topic Human Organ Systems and Bio Designs – 2 
+mechanisms, spirometry, abnormal lung physiology – COPD(Chronic 
+mechanisms, bioengineering solutions 
+for 
+muscular 
+dystrophy and osteoporosis) 
+Echolocation (ultrasonography, sonars), 
+Plant burrs (Velcro) 
+Kingfisher beak (Bullet train) 
+Shark skin (Friction reducing swimsuits) 
+carriers (HBOCs) and Perfluorocarbons (PFCs) 
+Topic Trends in Bioengineering 
+Electrical tongue, and electrical nose in food science, 
+DNA origami and Biocomputing, 
+Self-healing Bio concrete (based on bacillus spores, calcium 
+lactate nutrients, and biomineralization 
+Bioremediation  and  Biomining  via  microbial  surface 
+adsorption (removal of heavy metals like Lead, Cadmium, Mercury, 
+and Arsenic) 
+Total
+= 20  Marks    
+Suggested Learning Resources: 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Biology for Engineers, Sohini Singh and Tanu Allen, Vayu Education of India, New Delhi, 2014. 
+Udayashankar Lambert Academic Publishing, 2019. 
+1. https://nptel.ac.in/courses/121106008 
+5. https://www.coursera.org/courses?query=biology 
+6. https://www.classcentral.com/subject/biology 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+PCC11CE03 
+Digital Electronics 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+Construct combinational circuits using given MSI devices.  
+CO3 
+CO4 
+conditions. 
+CO5 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref 
+Hrs. 
+Implementation of Logic functions 
+Logic gates, Implementation of functions using basic gates and 
+using Universal gates  
+Sums (POS), Minimization using Boolean Algebra, De Morgan’s 
+Quine-McClusky Technique 
+Logic Families 
+Characteristic parameters of logic families: Voltage and Current 
+TTL NAND gate and its transfer characteristics, CMOS inverter and 
+transfer characteristics, comparison of TTL and CMOS logic 
+families 
+Combinational Circuit Design 
+Full adders, ripple carry adders, Carry Look ahead Adders,  Binary 
+Subtractors 
+Generators, Code Converters, comparator, ALU 
+Static and dynamic hazards in combinational circuits  
+Elements of Sequential Circuit 
+Storage elements: Latches and Flip-flops ( S-R, J-K, D, T Flip-flop), 
+Master Slave Flip-flop 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+applications  
+Analysis of Sequential circuits 
+Analysis of Moore and Mealy type Finite State Machines (FSM), 
+State Reduction 
+Introduction to Asynchronous Sequential circuits, Essential 
+hazards in asynchronous sequential circuits 
+Introduction to CPLD and FPGA  
+Total 26 
+Laboratory Experiments:  
+Sr. 
+No. 
+Title of experiment 
+Module 
+Ref 
+gates and Universal gates.  
+(using SPICE) 
+b. To implement a BCD adder using IC7483   
+b. To implement a given 4 variable Boolean function using Multiplexer 
+IC 74151 
+To implement an 8 bit binary comparator using IC 7485 
+a. To implement a Mod n asynchronous counter using flip-flops 
+b. To implement a Mod n counter using IC 74163  
+Implementation of a  combinational circuit using reconfigurable 
+devices 
+Implementation of a sequential circuit using reconfigurable devices 
+operation by simulation. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Assessment: 
+1. Quiz/ crossword  …10 Marks 
+2. Open book test ….10 marks 
+2. Oral examination….10 marks 
+syllabus 
+Laboratory Assessment:  
+   40 Marks (08 experiments of 05 marks each) + 10 Marks (activity based) = 50 Marks 
+evaluation for 20 marks. 
+marks. 
+b. Activity based: Testing and debugging activity for 10 marks 
+Recommended Books: 
+design”, McGraw Hill, 3rd Edition 
+Online References: 
+https://archive.nptel.ac.in/content/storage2/courses/106108099//Digital%20Systems.pdf  
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+PCC11CE04 
+Essential Psychomotor 
+skills for engineers 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+Course 
+Outcomes 
+CO1 
+use skill of writing texts, labels, drawing perspective images and 
+CO2 
+build solid model of a given object using 3D modeling software. 
+CO3 
+identify and rectify computer hardware and networking related issues 
+CO4 
+perform soldering and de-soldering of discrete components on 
+Universal PCB 
+CO5 
+install, configure and operate system admin servers. 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. 
+Hrs. 
+Creative Art 
+Art of writing Cursive, Bold, Italic, Block (3D) lettering, 
+Creating Designer Name-Plates, Labels, Visiting Cards  
+Introduction to Perspective Views, Iso-Scale and True Scale 
+Introduction to solid modeling 
+Solid Modeling 3D Geometric modeling of an Engineering 
+component, demonstrating modeling skills using commands 
+like Extrude, Revolve, Sweep, Blend, Loft etc. 
+Computer hardware, networking and troubleshooting 
+Computer assembly and troubleshooting 
+IP address configuration, basic networking commands such 
+as ping, netstat, traceroute, understand functionality of a 
+network switch 
+Implementation of LAN (2-3 computers) using network 
+switch  
+networking commands such as ping, netstat and traceroute 
+PCB making and soldering 
+discrete components.  
+Implementation of a 3V power supply circuit (using 
+transistors and Zener diode) on Universal PCB 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Configuration and working of web server, FTP server 
+Configuration and working of NFS server, SSH server 
+Configuration and working of a wireless access point 
+Total 52 
+Course Assessment: 
+Lab: 
+a. Assignment on Module 1 for 20 marks 
+b. Assignment on Module 2 for 20 marks 
+c. Group activity on (network troubleshooting) Module 3 for 10 marks 
+a. Quiz on Module 4 for 10 marks 
+b. Assignment (PCB implementation) on Module 4 for 30 marks 
+c. Group activity on Module 5 for 10 marks 
+Recommended References 
+[2] N.D. Bhatt, Machine Drawing, Chartor Publishing 
+[3] Alexander Bordino, Autodesk Inventor 2023 cookbook, Packt publishing 
+28Oct2022131021.pdf 
+[5] https://rsydigitalworld.com/15-useful-linux-networking-commands/ 
+[6] https://www.pearsonhighered.com/assets/samplechapter/0/7/8/9/0789732548.pdf 
+[8] https://pcpl21.org/wp-content/uploads/2020/09/10-Troubleshooting-Tips-If-Your-
+Internet-Is-Connected-But-Not-Working.pdf 
+[12] https://www.circuits-diy.com/3v-1a-dc-supply-using-bd135-139-npn-transistor/ 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+VSE11CE02 
+Creative Coding in 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+CO6 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Basic Data Types: Letter Counter App, Right Triangle Solver App, Multiplication 
+Decision Flow Control Statements 
+For Loops: Binary Hexadecimal Conversion App, Grade Point Average Calculator App 
+Conditionals: Voter Registration App, Rock, Paper, Scissors App 
+Functions 
+Classes: Casino Blackjack App 
+Graphics and GUI  
+Tkinter- Building a Password Manager GUI App. 
+NumPy, Pandas, Matplotlib: Data Analysis and visualization of any data set 
+electronics, mechanical etc. 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Assessment: 
+Lab: 
+Experiments: 20 Marks 
+Quiz: 10 Marks 
+Design contest: 20 Marks  
+Experiments: 20 Marks 
+Quiz: 10 Marks 
+Recommended Books: 
+(8 July 2019). 
+Publisher, August 2015. 
+McGraw Hill Education 
+Online Resources:  
+6. Numpy Documentation: https://numpy.org/doc/  
+7. Pandas Documentation: https://pandas.pydata.org/docs/  
+8. Matplotlib Documentation: https://matplotlib.org/3.2.1/contents.html  
+9. Scipy Documentation : https://www.scipy.org/docs.html  
+11. https://nptel.ac.in/courses/106/106/106106182/  
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+IKS11CE01 
+Indian Knowledge 
+System 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+Lab 
+Course 
+Outcomes 
+CO1 
+CO2 
+CO3 
+metallurgy 
+CO4 
+Irrigation, painting, surgical techniques and shipbuilding  
+CO5 
+heritage   
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+What is Indian Knowledge System (IKS)? Why do we need it? 
+Salient aspects of IKS. 
+Number systems in India, Measurements for time, distance, and 
+weight, Bhūta-Saṃkhyā system, Kaṭapayādi system, Piṅgala and 
+Wootz Steel, Mining and ore extraction, Metals and 
+Metalworking Technology, Iron and steel in India, Lost wax 
+metallic components 
+technology, Surgical techniques, Shipbuilding 
+planning. 
+Total 26 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Assessment: 
+Activity: Group Discussion on Indian Knowledge System: 10 Marks 
+Activity: Creative Activity: 20 Marks 
+Activity: Reflection discussion on Indian Knowledge System: 10 Marks 
+Activity: Creative Activity: 20 Marks 
+Recommended Books: 
+[5] B Mahadevan, Vinayak Rajat Bhat, Nagendra Pavana R. N., “Introduction to Indian 
+Knowledge System: Concepts and Applications” PHI, 2022  
+[7] R. P. Kulkarni, “Glimpses of India Engineering and Technology: Ancient and Medieval 
+Period,” Munshiram Manoharlal Publishers Pvt. Ltd., 2018 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Course Code 
+Course Name 
+Teaching Scheme 
+(Hrs/week) 
+Credits Assigned 
+HMM11CE01 
+Introduction to 
+Emerging 
+Technologies 
+L 
+T 
+P 
+L 
+T 
+P 
+Total 
+Examination Scheme 
+Total 
+weightage) 
+Lab 
+Course 
+Outcomes 
+CO1 
+landscape. 
+CO2 
+applications of emerging technologies. 
+CO3 
+challenges using emerging technologies 
+CO4 
+various industries 
+CO5 
+Identify various emerging technologies relevant to his/her discipline for 
+CO6 
+advancements. 
+Module 
+No. 
+Unit 
+No. 
+Topics 
+Ref. Hrs. 
+Introduction to Industrial Revolution, Important Inventions 
+during various Industrial Revolutions (IR). 
+Role of data, Enabling devices, Network and Human to Machine 
+Interaction during IR 
+Data Science: Overview of data science, Data Science Life Cycle, 
+Artificial Intelligence and Machine Learning: Philosophy of AI, 
+Real World AI, Types of Machine Learning, Neural Networks, 
+Applications: 
+Computer 
+Vision, 
+Robotics, NLP. 
+Societal 
+Implications of AI. 
+Fundamentals of Blockchain, Blockchain applications and 
+acquisition & platforms, IoT Data Communication, IoT data 
+storage and Retrieval, IoT data analytics & visualization and IoT 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+Introduction to Immersive Technologies (AR, VR and MR), AR /VR 
+usecases, Human Centric UX design 
+Semiconductor 
+and 
+Nanotechnology: 
+Evolution 
+of 
+Semiconductor 
+Industry, 
+Trends 
+and 
+Innovations 
+in 
+initiatives by GoI 
+to various fields.  
+Introduction to Robotics, Drones and Autonomous Systems. 
+Fundamentals of tools, software and hardware required to build 
+and Electric Vehicles 
+Total 26 
+Course Assessment: 
+Activity: Group Discussion on applications, benefits, effects of emerging technologies: 10 
+Marks 
+Learning Outcome:  
+PO6: Engineer and Society 
+industries 
+Activity: Article discussion on emerging technologies: 10 Marks 
+Learning Outcome: PO12: Life Long Learning 
+advancements. 
+CO5: Identify various emerging technologies relevant to his/her discipline for personal and 
+Recommended Books: 
+Society of St. Francis Xavier, Pilar’s 
+Fr. Conceicao Rodrigues College of Engineering 
+Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050 
+(Autonomous College affiliated to University of Mumbai) 
+[1] Vasudha Tiwari. Sunil Kumar Chaudhary and Iqbal Ahmed Khan, “Emerging Technology For 
+Engineers”, Vayu Education of India, 1st Edition. 
+[2] Chanagala Shankar, “Emerging Technologies”, Bluerose Publishers Pvt. Ltd, 1st Edition 
+Extraordinary”, 1st Edition 
+[4] Website of India Semiconductor Mission (https://ism.gov.in/) 
+[5] SWAYAM course on ‘An Introduction to Artificial Intelligence’ 

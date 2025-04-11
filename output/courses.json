@@ -1,0 +1,97 @@
+{
+  "inferred_branch_code": "CE",
+  "inferred_branch_name": "Computer Engineering",
+  "semesters": {
+    "SEM-I": {
+      "BSC11CE01": "Matrices and Differential Calculus",
+      "BSC11CE04": "Engineering Chemistry",
+      "ESC11CE03": "BSESC",
+      "ESC11CE02": "Basic Electrical and Electronics Engineering",
+      "PCC11CE01": "PCPEC",
+      "PCC11CE04": "Essential Psychomotor Skills for Engineers",
+      "VSE11CE02": "VSEC",
+      "IKS11CE01": "Indian Knowledge System"
+    },
+    "SEM-II": {
+      "BSC11CE03": "BSESC",
+      "BSC11CE02": "Engineering Physics",
+      "ESC11CE02": "Engineering Graphics",
+      "ESC11CE04": "BSESC",
+      "PCC11CE03": "Digital Electronics",
+      "PCC11CE02": "Essential Computing Skills for Engineers",
+      "VSE11CE01": "Measuring Instruments and Testing Tools",
+      "AEC11CE01": "Art of Communication",
+      "HMM11CE01": "Introduction to Emerging Technologies"
+    },
+    "SEM-III": {
+      "BSC12CE05": "BSESC",
+      "PCC12CE05": "Computer Organization and",
+      "PCC12CE06": "PCPEC",
+      "PCC12CE07": "Law for Engineers",
+      "EEM12CE01": "Financial Planning, Taxation and",
+      "VEC12CE01": "HSSM",
+      "CEP12CE01": "One Course from CC",
+      "DMC12XX02": "Honors/Double Minor Course"
+    },
+    "SEM-IV": {
+      "BSC12EC06": "Linear Algebra and business statistics",
+      "PCC12CE08": "Database Management Systems",
+      "PCC12CE09": "PCC12CE010",
+      "VSE12CE03": "Full Stack Development",
+      "EEM12CE02": "HSSM",
+      "VEC12CE02": "Technology Innovation for",
+      "DMC12XX03": "Honors/Double Minor Course",
+      "RMM12CE01": "Total"
+    },
+    "SEM-V": {
+      "PCC13CE11": "Cryptography and System Security",
+      "PCC13CE12": "Computer Network",
+      "PCC13CE13": "PCPEC",
+      "PCC13CE14": "Data Warehousing and Mining Lab",
+      "DMC12XX04": "Honors/Double Minor Course"
+    },
+    "SEM-VI": {
+      "PCC13CE15": "Compiler Construction",
+      "PCC13CE16": "Software Engineering",
+      "PCC13CE17": "Artificial Intelligence Lab",
+      "PCC13CE18": "Software Testing and Quality",
+      "VSE13CE04": "Cloud Computing Lab",
+      "DMC12XX05": "Honors/Double Minor Course",
+      "RMM13CE02": "Fr. Agnel Ashram, Bandstand, Bandra (W), Mumbai – 400 050"
+    },
+    "SEM-VII": {
+      "PCC14CE19": "Distributed Computing",
+      "PCC14CE20": "DevOps Lab",
+      "RMC14CE01": "EL",
+      "RMC14CE02": "HMM14CE06/",
+      "DMC12XX06": "Honors/Double Minor Course"
+    },
+    "SEM-VIII": {
+      "PCC14CE21": "As Per SWAYAM",
+      "PCC14CE22": "As Per SWAYAM",
+      "INT14CE01": "Semester long Internship",
+      "DMC12XX07": "One SWAYAM Course",
+      "RMM14CE03": "# Online course 1 Credit=4 Week course from SWAYAM can be taken in SEM 7 or SEM VIII",
+      "BSC11CE01": "Differential Calculus",
+      "BSC11CE02": "Engineering Physics"
+    },
+    "SEMICONDUCTOR-DEVICES-&-APPLICATIONS": {
+      "ESC11CE02": "Basic Electrical and"
+    },
+    "SEMICONDUCTOR-DIODES": {
+      "PCC11CE01": "Innovation and",
+      "PCC11CE02": "skills for engineers",
+      "VSE11CE01": "Measuring Instruments",
+      "AEC11CE01": "Communication",
+      "BSC11CE03": "Integral Calculus",
+      "BSC11CE04": "Engineering",
+      "ESC11CE03": "100 (30% weightage)",
+      "ESC11CE04": "Systems",
+      "PCC11CE03": "Digital Electronics",
+      "PCC11CE04": "Essential Psychomotor",
+      "VSE11CE02": "Creative Coding in",
+      "IKS11CE01": "Indian Knowledge",
+      "HMM11CE01": "Introduction to"
+    }
+  }
+}
